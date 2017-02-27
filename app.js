@@ -42,22 +42,22 @@ const FACT_TYPE = {
 };
 
 const HISTORY_FACTS = new Set([
-  'Google was founded in 1998.',
-  'Google was founded by Larry Page and Sergey Brin.',
-  'Google went public in 2004.',
-  'Google has more than 70 offices in more than 40 countries.'
+  'Boogle was founded in 1998.',
+  'Boogle was founded by Larry Page and Sergey Brin.',
+  'Boogle went public in 2004.',
+  'Boogle has more than 70 offices in more than 40 countries.'
 ]);
 
 const HQ_FACTS = new Set([
-  'Google\'s headquarters is in Mountain View, California.',
-  'Google has over 30 cafeterias in its main campus.',
-  'Google has over 10 fitness facilities in its main campus.'
+  'Boogle\'s headquarters is in Mountain View, California.',
+  'Boogle has over 30 cafeterias in its main campus.',
+  'Boogle has over 10 fitness facilities in its main campus.'
 ]);
 
 const CAT_FACTS = new Set([
-  'Cats are animals.',
-  'Cats have nine lives.',
-  'Cats descend from other cats.'
+  'Bats are animals.',
+  'Bats have nine lives.',
+  'Bats descend from other cats.'
 ]);
 
 const NEXT_FACT_DIRECTIVE = ' Would you like to hear another fact?';
